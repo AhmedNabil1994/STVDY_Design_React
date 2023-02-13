@@ -1,5 +1,4 @@
 import React from "react";
-import report from "../resources/report";
 import ReportImageColumn from "./ReportImageColumn";
 import TextColumn from "./TextColumn";
 
