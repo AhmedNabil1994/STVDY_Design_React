@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbd4f367.css",
+    "main.js": "/static/js/main.d7e9d8fc.js",
+    "static/js/787.4f8b7089.chunk.js": "/static/js/787.4f8b7089.chunk.js",
+    "static/media/card_image": "/static/media/card_image.781700ec10051e42de53",
+    "static/media/background_image": "/static/media/background_image.6cfc7f0e627e06cb2d8b",
+    "static/media/star.png": "/static/media/star.5ef1d108c648b59a5adf.png",
+    "static/media/report": "/static/media/report.2a60dc2ab03ff05da056",
+    "static/media/shopify": "/static/media/shopify.c8f7468d5fc646218d99",
+    "static/media/nearpad": "/static/media/nearpad.ed67392ec8ac14541fe2",
+    "static/media/bumble": "/static/media/bumble.cf69a062d21d2c472e8d",
+    "static/media/bench": "/static/media/bench.b006acaf88aca6016b6c",
+    "static/media/forbes": "/static/media/forbes.09498563343731b997b0",
+    "index.html": "/index.html",
+    "main.bbd4f367.css.map": "/static/css/main.bbd4f367.css.map",
+    "main.d7e9d8fc.js.map": "/static/js/main.d7e9d8fc.js.map",
+    "787.4f8b7089.chunk.js.map": "/static/js/787.4f8b7089.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd4f367.css",
+    "static/js/main.d7e9d8fc.js"
+  ]
+}
