@@ -461,6 +461,12 @@ footer .column-3 form span {
   .section-4-right .column p {
     text-align: center;
   }
+  .section-4-left p:nth-of-type(2)::before {
+    left: 77%;
+  }
+  .section-4-left p:nth-of-type(2)::after {
+    left: 82%;
+  }
 }
 /* Section 5 */
 @media (max-width: 767px) {

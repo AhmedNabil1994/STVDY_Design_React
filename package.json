@@ -1,6 +1,7 @@
 {
   "name": "stvdy_design",
   "version": "0.1.0",
+  "homepage": "https://ahmednabil1994.github.io/STVDY_Design_React/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
@@ -15,8 +16,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://ahmednabil1994.github.io/STVDY_Design_React/"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
