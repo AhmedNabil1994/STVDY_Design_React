@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/STVDY_Design_React/static/css/main.b0510cdb.css",
+    "main.css": "/STVDY_Design_React/static/css/main.5189f33a.css",
     "main.js": "/STVDY_Design_React/static/js/main.a5a2711a.js",
     "static/js/787.4f8b7089.chunk.js": "/STVDY_Design_React/static/js/787.4f8b7089.chunk.js",
     "static/media/card_image": "/STVDY_Design_React/static/media/card_image.781700ec10051e42de53",
@@ -13,12 +13,12 @@
     "static/media/bench": "/STVDY_Design_React/static/media/bench.b006acaf88aca6016b6c",
     "static/media/forbes": "/STVDY_Design_React/static/media/forbes.09498563343731b997b0",
     "index.html": "/STVDY_Design_React/index.html",
-    "main.b0510cdb.css.map": "/STVDY_Design_React/static/css/main.b0510cdb.css.map",
+    "main.5189f33a.css.map": "/STVDY_Design_React/static/css/main.5189f33a.css.map",
     "main.a5a2711a.js.map": "/STVDY_Design_React/static/js/main.a5a2711a.js.map",
     "787.4f8b7089.chunk.js.map": "/STVDY_Design_React/static/js/787.4f8b7089.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0510cdb.css",
+    "static/css/main.5189f33a.css",
     "static/js/main.a5a2711a.js"
   ]
 }
