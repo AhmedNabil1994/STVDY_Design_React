@@ -478,6 +478,12 @@ footer .column-3 form span {
     margin-left: 10px;
   }
 }
+/* Section 7 */
+@media (max-width: 575px) {
+  .section-7 {
+    width: 100%;
+  }
+}
 /* Section 8 */
 @media (max-width: 575px) {
   .section-4-left h3,
