@@ -425,6 +425,11 @@ footer .column-3 form span {
   }
 }
 /* Section 4 */
+@media (max-width: 991px) {
+  .section-4-left h3 {
+    width: 70%;
+  }
+}
 @media (max-width: 767px) {
   .section-4-left h3,
   .section-4-left p:first-of-type,
